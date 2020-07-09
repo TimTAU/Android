@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/HelloClick" />
+            <option value="$PROJECT_DIR$/HelloKotlin" />
+            <option value="$PROJECT_DIR$/HelloWorld" />
+            <option value="$PROJECT_DIR$/activity_demo" />
+            <option value="$PROJECT_DIR$/adapter_demo" />
+            <option value="$PROJECT_DIR$/anborn_j" />
+            <option value="$PROJECT_DIR$/anborn_k" />
+            <option value="$PROJECT_DIR$/background_demo" />
+            <option value="$PROJECT_DIR$/bluetooth_demo" />
+            <option value="$PROJECT_DIR$/complex_fragment_demo" />
+            <option value="$PROJECT_DIR$/constraint_layout_demo" />
+            <option value="$PROJECT_DIR$/customview_demo" />
+            <option value="$PROJECT_DIR$/dialogs_demo" />
+            <option value="$PROJECT_DIR$/dragndrop_demo" />
+            <option value="$PROJECT_DIR$/expandable_demo" />
+            <option value="$PROJECT_DIR$/gesture_demo" />
+            <option value="$PROJECT_DIR$/gps_demo" />
+            <option value="$PROJECT_DIR$/immersivemode_demo" />
+            <option value="$PROJECT_DIR$/kotlin_demo" />
+            <option value="$PROJECT_DIR$/mouse_demo" />
+            <option value="$PROJECT_DIR$/navigationdrawer_demo" />
+            <option value="$PROJECT_DIR$/notifications_demo" />
+            <option value="$PROJECT_DIR$/orientation_demo" />
+            <option value="$PROJECT_DIR$/panel_demo" />
+            <option value="$PROJECT_DIR$/photo_demo" />
+            <option value="$PROJECT_DIR$/preferences_demo" />
+            <option value="$PROJECT_DIR$/resource_demo" />
+            <option value="$PROJECT_DIR$/screencapture_demo" />
+            <option value="$PROJECT_DIR$/sensor_demo" />
+            <option value="$PROJECT_DIR$/simple_fragment_demo" />
+            <option value="$PROJECT_DIR$/textswitcher_demo" />
+            <option value="$PROJECT_DIR$/upper_demo" />
+            <option value="$PROJECT_DIR$/upper_fcn" />
+            <option value="$PROJECT_DIR$/widget_demo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

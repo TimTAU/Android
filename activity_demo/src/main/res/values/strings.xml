@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity Demo</string>
+    <string name="transfer_key">transfer</string>
+    <string name="save_key">save</string>
+</resources>

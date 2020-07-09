@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!-- <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Shadow"
+        android:id="@+id/checkBox"/> -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textAction"
+        android:text="@string/drag_action"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20px">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView1"
+            android:tag="img1"
+            android:src="@android:drawable/ic_media_rew"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView2"
+            android:tag="img2"
+            android:src="@android:drawable/ic_media_pause"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView3"
+            android:tag="img3"
+            android:src="@android:drawable/ic_media_play"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView4"
+            android:tag="img4"
+            android:src="@android:drawable/ic_media_ff"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Drag Me"
+            android:id="@+id/textView1"
+            android:tag="txt1"
+            android:layout_gravity="center_vertical"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="96px"
+            android:layout_height="96px"
+            android:id="@+id/imageViewTarget1"
+            android:background="@color/material_deep_teal_200"
+            android:tag="target1"
+            android:layout_marginTop="20px"
+            android:layout_marginRight="20px"/>
+
+        <ImageView
+            android:layout_width="96px"
+            android:layout_height="96px"
+            android:id="@+id/imageViewTarget2"
+            android:background="@android:color/holo_blue_bright"
+            android:tag="target2"
+            android:layout_marginTop="20px"
+            android:layout_marginLeft="20px"/>
+    </LinearLayout>
+
+</LinearLayout>

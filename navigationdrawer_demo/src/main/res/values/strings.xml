@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Navigationdrawer Demo</string>
+    <string-array name="operating_systems">
+        <item >Android</item>
+        <item >iPhone</item>
+        <item >Windows Mobile</item>
+    </string-array>
+</resources>

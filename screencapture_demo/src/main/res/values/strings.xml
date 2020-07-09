@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Screencapture Demo</string>
+    <string name="intro_message">
+        <![CDATA[
+
+
+This sample demonstrates how to use Media Projection API introduced in Android 5.0 Lollipop. Press
+"Start" to start capturing the screen.
+
+
+        ]]>
+    </string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="user_cancelled">User denied screen sharing permission</string>
+</resources>

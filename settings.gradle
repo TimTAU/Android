@@ -1,0 +1,10 @@
+include ':anborn_j', 'anborn_k'
+include ':HelloClick', 'HelloKotlin', 'HelloWorld'
+include ':constraint_layout_demo', 'kotlin_demo', 'panel_demo', 'resource_demo'
+include ':adapter_demo', 'background_demo', 'expandable_demo', 'orientation_demo', 'preferences_demo', 'widget_demo'
+include ':activity_demo', 'photo_demo', 'upper_demo', 'upper_fcn'
+include ':dialogs_demo', 'notifications_demo', 'complex_fragment_demo', 'simple_fragment_demo'
+include ':mouse_demo', 'gps_demo', 'gesture_demo', 'sensor_demo'
+include ':navigationdrawer_demo', 'screencapture_demo', 'immersivemode_demo', 'textswitcher_demo', 'customview_demo'
+include ':bluetooth_demo', 'dragndrop_demo'
+rootProject.name = "Code Snippets"
